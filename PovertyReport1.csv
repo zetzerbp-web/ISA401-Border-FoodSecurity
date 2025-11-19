@@ -1,0 +1,69 @@
+FIPS*,,Name,RUC Code,Percent of all people in poverty (2023),percent of all people in poverty 90% confidence inrerval (Lower Bound),"Percent of people in poverty (2023), 90% confidence interval of estimate (Upper Bound)",Percent of childen ages 0-17 in poverty (2023),"Percent of childen ages 0-17 in poverty (2023), 90% confidence interval (Lower Bound)","Percent of childen ages 0-17 in poverty (2023), 90% confidence interval of estimate (Upper Bound)"
+06000,,California,,12,11.9,12.1,15,14.6,15.4
+06001,,Alameda,1,9.5,8.7,10.3,9,7.1,10.9
+06003,,Alpine,8,15.6,11.8,19.4,26.8,18.5,35.1
+06005,,Amador,6,11.7,9.3,14.1,13.9,9.6,18.2
+06007,,Butte,3,19.9,18.1,21.7,20.8,17.2,24.4
+06009,,Calaveras,6,12.2,9.9,14.5,15.5,11,20
+06011,,Colusa,6,12.3,9.6,15,14.2,9.7,18.7
+06013,,Contra Costa,1,8.3,7.5,9.1,10.1,8.4,11.8
+06015,,Del Norte,7,13.8,9.8,17.8,21,13.7,28.3
+06017,,El Dorado,1,7,5.7,8.3,7.8,5.3,10.3
+06019,,Fresno,1,17.7,16.3,19.1,23.3,20.9,25.7
+06021,,Glenn,6,13.5,10.5,16.5,15.1,9.7,20.5
+06023,,Humboldt,5,16.7,14.3,19.1,18.5,13.2,23.8
+06025,,Imperial,3,17.3,14.6,20,22.1,16.7,27.5
+06027,,Inyo,6,11.8,9.1,14.5,14.2,9.7,18.7
+06029,,Kern,2,19,17.8,20.2,24.8,22.4,27.2
+06031,,Kings,3,17.5,14.6,20.4,20.3,15.9,24.7
+06033,,Lake,4,17.6,14.6,20.6,21.6,15.3,27.9
+06035,,Lassen,7,17.1,13.1,21.1,17.2,12.1,22.3
+06037,,Los Angeles,1,13.7,13.3,14.1,17.6,16.7,18.5
+06039,,Madera,1,18,15.3,20.7,24.2,19.8,28.6
+06041,,Marin,1,8.7,7.4,10,8.1,6.1,10.1
+06043,,Mariposa,8,17.3,14.2,20.4,21.9,16,27.8
+06045,,Mendocino,4,13.9,11.2,16.6,18.8,13,24.6
+06047,,Merced,2,18.6,16.6,20.6,22.7,18.9,26.5
+06049,,Modoc,8,20.1,15.8,24.4,28.2,19.9,36.5
+06051,,Mono,7,7.8,5.7,9.9,10.7,7.4,14
+06053,,Monterey,2,14,12.6,15.4,20.4,17.7,23.1
+06055,,Napa,3,8.9,7.3,10.5,9.3,6.7,11.9
+06057,,Nevada,4,10.9,9.2,12.6,12.8,9.2,16.4
+06059,,Orange,1,9.2,8.4,10,11,9.5,12.5
+06061,,Placer,1,6.5,5.6,7.4,6.1,4.5,7.7
+06063,,Plumas,9,12.7,9.7,15.7,18.2,12.5,23.9
+06065,,Riverside,1,11.3,10.5,12.1,14.1,12.6,15.6
+06067,,Sacramento,1,11.9,11,12.8,13.7,11.6,15.8
+06069,,San Benito,1,9.1,7.2,11,10.8,7.8,13.8
+06071,,San Bernardino,1,13.2,12.3,14.1,17.4,15.6,19.2
+06073,,San Diego,1,10.1,9.5,10.7,11.6,10.1,13.1
+06075,,San Francisco,1,11.9,11.1,12.7,10.8,8.2,13.4
+06077,,San Joaquin,2,12.6,11.2,14,16.2,13.8,18.6
+06079,,San Luis Obispo,2,12.8,11.3,14.3,11.8,9,14.6
+06081,,San Mateo,1,7.3,6.6,8,7.1,5.7,8.5
+06083,,Santa Barbara,2,14.9,13.4,16.4,17,14.1,19.9
+06085,,Santa Clara,1,7.6,6.9,8.3,7.4,6.1,8.7
+06087,,Santa Cruz,2,12.6,11,14.2,14,11,17
+06089,,Shasta,3,13.2,11.1,15.3,16,11.7,20.3
+06091,,Sierra,8,12.6,9.5,15.7,14.8,10.2,19.4
+06093,,Siskiyou,7,17.1,14.3,19.9,21.6,15.9,27.3
+06095,,Solano,2,10.3,9.1,11.5,11.8,9.4,14.2
+06097,,Sonoma,2,9.1,7.9,10.3,9.5,7,12
+06099,,Stanislaus,2,12.6,11.1,14.1,15.9,13.1,18.7
+06101,,Sutter,3,15.3,13,17.6,19.2,14.9,23.5
+06103,,Tehama,4,15,12.1,17.9,20.7,15.2,26.2
+06105,,Trinity,8,20.8,15.7,25.9,29.5,20.1,38.9
+06107,,Tulare,2,17.5,15.7,19.3,23.2,20.1,26.3
+06109,,Tuolumne,4,10.5,7.9,13.1,13.6,9.2,18
+06111,,Ventura,2,9.8,8.6,11,12.8,10.7,14.9
+06113,,Yolo,1,15.3,13.6,17,11.6,8.5,14.7
+06115,,Yuba,3,15.4,12.7,18.1,20,15.4,24.6
+,,,,,,,,,
+"
+See important notes about intercensal model-based poverty estimates.
+
+*The 2023 Rural-urban Continuum Codes classify metropolitan counties (codes 1 through 3) by the population of the Metropolitan Statistical Area (MSA) and nonmetropolitan counties (codes 4 through 9) by degree of urbanization and proximity to metro areas. See rural-urban continuum codes for precise definitions of each code.
+
+Source: Census Bureau, Small Area Income and Poverty Estimates.",,,,,,,,,
+,,,,,,,,,
+*See the Census Bureau web site for a description of FIPS codes.,,,,,,,,,
